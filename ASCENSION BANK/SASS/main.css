@@ -1,0 +1,149 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,900;1,700&family=Lobster&family=Poppins:ital,wght@0,200;0,400;0,500;0,600;1,200;1,300;1,500&display=swap");
+.main-header {
+  background: #1FCA74;
+}
+.main-header .navbar-brand {
+  font-family: "Lato";
+  font-size: 25px;
+}
+
+.hero-contents .row {
+  height: auto;
+}
+.hero-contents .hero-header {
+  font-family: "Poppins";
+  font-size: 90px;
+  line-height: 6.5rem;
+}
+.hero-contents .btn-first {
+  background: #fff;
+  border: 1px sold transparent;
+}
+.hero-contents .btn-first:hover {
+  background: transparent;
+  color: #fff;
+  border: 1px solid white;
+}
+.hero-contents .btn-second {
+  color: #fff;
+  border: 1px solid #fff;
+}
+.hero-contents .btn-second:hover {
+  background: #fff;
+  color: black;
+}
+.hero-contents .lead {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.first {
+  font-size: 15px;
+}
+
+#card-info .card-header {
+  font-family: "Poppins";
+  font-size: 50px;
+  font-weight: 300;
+}
+#card-info a {
+  background: #1FCA74;
+  color: #fff;
+  border: 1px solid transparent;
+}
+#card-info a:hover {
+  background: transparent;
+  border: 1px solid #1FCA74;
+  color: #1FCA74;
+}
+
+.primary-bg {
+  background: #1FCA74;
+}
+
+.section-wrap {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-content: center;
+  align-items: center;
+  grid-gap: 0;
+}
+.section-wrap .section-item, .section-wrap .right-item, .section-wrap .left-item {
+  height: 100%;
+}
+
+#student-banking h4 {
+  font-family: "Poppins";
+  font-size: 45px;
+  font-weight: 300;
+}
+#student-banking a {
+  color: #fff;
+}
+#student-banking a:hover {
+  border: 1px solid #1FCA74;
+  color: #1FCA74;
+}
+
+.icon {
+  font-size: 60px;
+  color: #1FCA74;
+}
+
+#services h2 {
+  font-family: "Poppins";
+  font-size: 50px;
+  font-weight: 300;
+}
+#services a {
+  background: #1FCA74;
+  color: #fff;
+  border: 1px solid transparent;
+}
+#services a:hover {
+  background: transparent;
+  border: 1px solid #1FCA74;
+  color: #1FCA74;
+}
+#services .para {
+  font-size: 22px;
+  font-weight: 400;
+}
+#services h3 {
+  font-size: 30px;
+  font-weight: 400;
+}
+#services .bottom-border {
+  border: 1px solid #1FCA74;
+}
+
+#footer {
+  background: #1FCA74;
+}
+#footer h4 {
+  font-size: 30px;
+}
+#footer .bi {
+  font-size: 25px;
+  color: #fff;
+  cursor: pointer;
+}
+#footer .bi:hover {
+  opacity: 0.7;
+}
+#footer a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 300;
+  font-family: "Poppins";
+}
+#footer a:hover {
+  opacity: 0.7;
+}
+#footer .footer-header {
+  font-family: "Poppins";
+  font-size: 32px;
+}
+#footer .white-border {
+  border: 1px solid #fff;
+}/*# sourceMappingURL=main.css.map */
